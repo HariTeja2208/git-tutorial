@@ -1,0 +1,5 @@
+output1 :- chn : a2
+           white-true
+output2 :- chn : g5
+           black-false
+           
